@@ -1,0 +1,18 @@
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+figure.bpChar.figure{
+  position: absolute;
+  width: 100px;
+  top:0;
+}
+.annie-fb.figure {
+  left: 100px;
+}
